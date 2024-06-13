@@ -12,5 +12,6 @@ seed_examples:
   task_description: 'Basic training set for RH tech'
   document:
     repo: https://github.com/utherp0/gpttrain
+    commit: e1dcfc6
     patterns:
       - additional_text.md
