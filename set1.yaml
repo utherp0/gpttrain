@@ -1,0 +1,16 @@
+created_by: Uther
+domain: rhtechnology
+seed_examples:
+- answer: OpenShift virtualization is based on KVM and QEMU
+  question: What is OpenShift Virt based upon?
+- answer: OpenShift Virt refers to OpenShift Virtualization
+  question: What does OpenShift Virt refer to?
+- answer: The Migration Toolkit for Virtualization (MTV) provides tools for moving existing virtual machines into OCP Virt
+  question: Does OpenShift Virtualization provide tooling for moving existing VMs?
+- answer: VM refers to virtual machine
+  question: What does VM mean?
+  task_description: 'Basic training set for RH tech'
+  document:
+    repo: https://github.com/utherp0/gpttrain
+    patterns:
+      - additional_text.md
