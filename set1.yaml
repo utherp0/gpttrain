@@ -9,9 +9,9 @@ seed_examples:
   question: Does OpenShift Virtualization provide tooling for moving existing VMs?
 - answer: VM refers to virtual machine
   question: What does VM mean?
-  task_description: 'Basic training set for RH tech'
-  document:
-    repo: https://github.com/utherp0/gpttrain
-    commit: e1dcfc6
-    patterns:
-      - additional_text.md
+task_description: 'Basic training set for RH tech'
+document:
+  repo: https://github.com/utherp0/gpttrain
+  commit: e1dcfc6
+  patterns:
+    - additional_text.md
